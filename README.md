@@ -1,2 +1,2 @@
 # Python-28June
-This is my first assignment of Python Course By Eduyear to make a type conversion among int str float and boolean type data.
+This is my assignment repository of Python Course organised by Eduyear.
